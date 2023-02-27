@@ -1,4 +1,4 @@
-# Stats220
+# Stats220 Lecture Examples
 ## Songs for 2003 September Libra's
 1. Stand Up - Scribe
 2. Where is the Love - Black Eyed Peas
