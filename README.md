@@ -1,7 +1,7 @@
 # Lily Chalmers' Stats 220 Respository
-This is a place for my coursework for Stats220 at UoA
+This is a place for my coursework for Stats220 
 
-I'm a 2nd year Data Science Student
+I'm a 2nd year Data Science Student at UoA
 
 I spend far too much of my time on letterboxd, [linked here](https://letterboxd.com/lgchalmers/), and here are my top 4 movies OAT.
 
